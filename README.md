@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Ali-Shabanh
+- 👀 I’m interested in software development, cloud technologies, and enterprise applications.
+- My focus is on creating innovative solutions using modern technologies, both on the frontend and backend.
+- 🌱 I’m currently learning software development, data structures and algorithms, cloud computing, databases, and DevOps.
+- I’m also exploring user experience design and machine learning as part of my Bachelor's degree.
+- 💞️ I’m looking to collaborate on full stack development projects, cloud-based solutions, and open-source initiatives.
+- Always excited to learn and contribute to challenging software projects!
+- 📫 How to reach me: ali.m.s.i@icloud.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: When I’m not coding, you can find me at the gym, playing football, or enjoying a good coffee!
